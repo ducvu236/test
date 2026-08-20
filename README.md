@@ -1,4 +1,4 @@
-# Công cụ vẽ sơ đồ quy trình
+# Công cụ vẽ sơ đồ quy trình a
 
 Vẽ sơ đồ quy trình/workflow kéo-thả, sinh sơ đồ bằng AI (Gemini) từ mô tả text, dữ liệu lưu ngay trên trình duyệt (IndexedDB) nên F5 hay tắt trình duyệt vẫn giữ nguyên các tab đang làm việc.
 
